@@ -15,11 +15,11 @@ The typical survivor was a woman in first or second class; the typical victim wa
 
 ## Project structure
 
-- `data/` – dataset (titanic.csv)
-- `src/` – Jupyter notebook
-- `docs/` – one-page PDF summary
-- `results/` – charts
+- `DATA/` – dataset (titanic.csv)
+- `SRC/` – Jupyter notebook
+- `DOCS/` – one-page PDF summary
+- `RESULTS/` – charts
 
 ## How to run
 
-Open the notebook in `src/` and run all cells. Requires pandas, numpy, matplotlib, seaborn, and scipy.
+Open the notebook in `SRC/` and run all cells. Requires pandas, numpy, matplotlib, seaborn, and scipy.
